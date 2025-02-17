@@ -1,0 +1,27 @@
+{
+  "name": "@bedrockio/vite-visualizer",
+  "version": "0.1.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "lint": "eslint ."
+  },
+  "main": "./src/plugin.js",
+  "devDependencies": {
+    "@bedrockio/eslint-plugin": "^1.1.7",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.20.1",
+    "lodash-es": "^4.17.21",
+    "motion": "^12.4.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^6.0.5"
+  },
+  "dependencies": {
+    "open": "^10.1.0"
+  }
+}
