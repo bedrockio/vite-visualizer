@@ -1,5 +1,6 @@
 {
   "name": "@bedrockio/vite-visualizer",
+  "description": "Visualizer for vite builds.",
   "version": "0.1.0",
   "license": "MIT",
   "type": "module",
